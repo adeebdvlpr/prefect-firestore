@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/PrefectHQ/prefect-collection-template",
+  "commit": "008e0473a06186c9608d26f6288810f46d4509e2",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Adeeb Doyle",
+      "email": "Adeebd16@gmail.com",
+      "github_organization": "adeebdvlpr",
+      "collection_name": "prefect-firestore",
+      "collection_slug": "prefect_firestore",
+      "collection_short_description": "Prefect-firestore contians that basics needed to connect and load data to a firestore database",
+      "_copy_without_render": [
+        ".github/workflows/*.yml"
+      ],
+      "_template": "https://github.com/PrefectHQ/prefect-collection-template"
+    }
+  },
+  "directory": null
+}
